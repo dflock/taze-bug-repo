@@ -1,0 +1,7 @@
+packages:
+  - packages/*
+catalogs:
+  # These are my catalogs, and this is a comment.
+  held:
+    # This is held because upgrading breaks the project
+    vue: 3.4.30
