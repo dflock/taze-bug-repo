@@ -2,10 +2,13 @@
   "name": "taze-bug-repo",
   "version": "1.0.0",
   "description": "",
+  "scripts": {
+    "up": "taze major -I"
+  },
   "dependencies": {
     "vue": "catalog:held"
   },
   "devDependencies": {
-    "taze": "^0.16.1"
+    "taze": "^0.16.0"
   }
 }
